@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<base href="/avikde" />
+<link rel="shortcut icon" href="https://scholar.harvard.edu/profiles/openscholar/themes/hwpi_basetheme/favicon.png" />
+<link rel="dns-prefetch" href="//static.scholar.harvard.edu" />
+<meta name="generator" content="OpenScholar for Drupal 7 (http://theopenscholar.org)" />
+<link rel="canonical" href="https://scholar.harvard.edu/avikde/home" />
+<link rel="shortlink" href="https://scholar.harvard.edu/avikde/home" />
+<meta property="og:type" content="profile" />
+<meta property="og:title" content="Avik De" />
+<meta property="og:image" content="https://scholar.harvard.edu/files/avikde/files/logins.jpg?m=1547324865" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Avik De" />
+<meta name="twitter:description" content="Avik De" />
+<meta name="twitter:image" content="https://scholar.harvard.edu/files/avikde/files/logins.jpg?m=1547324865" />
+<title>Avik De</title>
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link type="text/css" rel="stylesheet" href="https://scholar.harvard.edu/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css?m=1588684818" media="all" />
+<link type="text/css" rel="stylesheet" href="https://scholar.harvard.edu/files/css/css_dPPSycqfAjGb-ewIlhmadXk6H9Qmpl1OObcXZQW3qH8.css?m=1588684931" media="all" />
+<link type="text/css" rel="stylesheet" href="https://scholar.harvard.edu/files/css/css_YnlUIvHP13qgpYEqubzE8JyDwlSxUnVibfnVkSoSDb0.css?m=1588684801" media="all" />
+<link type="text/css" rel="stylesheet" href="https://scholar.harvard.edu/files/css/css_SrKxYcEAmrHZzODvPqEhrCMc_BTb0BKOB6KwG4wGlPs.css?m=1588685182" media="all" />
+<link type="text/css" rel="stylesheet" href="https://scholar.harvard.edu/files/css/css_YB4pI-8KW9sWJqsdGMkOe-h0NpfRzB_G2uZFAHle3Oc.css?m=1588684925" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://scholar.harvard.edu/files/css/css_dW-aNNrctRhQNc-KECjtQd0PxuW-h19IEum-TX2MeEk.css?m=1588684832" media="print" />
+<link type="text/css" rel="stylesheet" href="https://scholar.harvard.edu/files/css/css_SH2Lx3Qprh0GZo_9xRp85U9NsWfkSXn_Bi-rJoMY1sw.css?m=1588684798" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://scholar.harvard.edu/files/css/css_uaIDKcYMUK5osSQXuirpr3ZleXtnnpBN-eiECm7N0M0.css?m=1588684918" media="all" />
+  <!--[if lte IE 8]>
+<script type="text/javascript">
+  var os_c = document.createElement;os_c('header');os_c('nav');os_c('section');os_c('article');os_c('aside');os_c('footer');os_c('hgroup');os_c('figure');
+</script>
+  <![endif]-->
+</head>
+<body class="html front not-logged-in no-sidebars page-home og-context og-context-node og-context-node-629700 navbar-off" ng-app="openscholar">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable" tabindex="1">Skip to main content</a>
+  </div>
+    <div id="page_wrap" class="page_wrap">
+<!--REGION TO HOUSE RESPONSIVE MENU. OTHER CONTENT CAN'T BE PLACED HERE-->
+<div class="responive-menu-container clearfix">
+  <ul class="mobile-buttons num-links-3"><li class="link-count-mobi-main first"><a href="#"  data-target="#block-os-primary-menu"><span aria-hidden="true" class="icon-menu"></span><span class="move">Main Menu</span></a></li><li class="link-count-mobi-util"><a href="#"  data-target="#block-os-quick-links, #block-os-secondary-menu, #header .os-custom-menu"><span aria-hidden="true" class="icon-plus"></span><span class="move">Utility Menu</span></a></li><li class="link-count-mobi-search last"><a href="#"  data-target="#block-os-search-db-site-search, #block-boxes-solr-search-box"><span aria-hidden="true" class="icon-search3"></span><span class="move">Search</span></a></li></ul></div>
+
+<!--FLEXIBLE ADMIN HEADER FOR USE BY SELECT GROUPS USING OS-->
+	<div id="branding_header">
+		<div  class="branding-container clearfix">
+		  <div class="branding-left"><a href="http://www.harvard.edu/" ><img src="https://scholar.harvard.edu/profiles/openscholar/themes/hwpi_basetheme/images/harvard-logo.png" width="235" height="32" alt="University Logo" /></a></div><div class="branding-right"><a href="http://www.harvard.edu/" >HARVARD.EDU</a></div>		</div>
+	</div>
+
+<div id="page" class="container page header-left header-main header-right content-top footer-none">
+	<div id="page-wrapper">
+
+		
+					<!--header regions beg-->
+			<header id="header" class="clearfix" role="banner">
+			 <div id="header-container">
+				 <div id="header-panels" class="at-panel gpanel panel-display three-col clearfix">
+					  					  <div class="region region-header-second"><div class="region-inner clearfix"><div id="block-boxes-site-info" class="block block-boxes block-boxes-os_boxes_site_info no-title"  module="boxes" delta="site_info"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-site_info' class='boxes-box'><div class="boxes-box-content"><h1><a href="/avikde"  class="active">Avik De</a></h1>
+    
+    <p>James S. McDonnell Foundation Postdoctoral Fellow, Harvard SEAS and Wyss Institute<br>Co-founder and CTO, Ghost Robotics<br></p></div></div></div>
+  </div></div></div></div>					  <div class="region region-header-first"><div class="region-inner clearfix"><div id="block-boxes-site-logo" class="block block-boxes block-boxes-os_boxes_site_logo no-title"  module="boxes" delta="site_logo"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-site_logo' class='boxes-box'><div class="boxes-box-content"><a href="/avikde"  class="active"><img src="https://scholar.harvard.edu/files/avikde/files/logins.jpg?m=1547324865" width="180" height="140" alt="Avik De" /></a></div></div></div>
+  </div></div></div></div>					  <div class="region region-header-third"><div class="region-inner clearfix"><div id="block-os-primary-menu" class="block block-os no-title"  module="os" delta="primary-menu"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><ul class="nice-menu nice-menu-down nice-menu-primary-menu" id="nice-menu-primary-menu"><li class="menu-900 menu-path-front  first   odd  "><a href="/avikde"  class="active">HOME</a></li><li class="menu-902 menu-path-publications   even   last "><a href="/avikde/publications" >Publications</a></li></ul>
+</div>
+  </div></div></div></div>					  				 </div>
+			  </div>
+		  </header>
+      <!--header regions end-->
+		
+		
+    
+		<div id="columns" class="clearfix">
+			<div class="hg-container">
+				<div id="content-column" role="main">
+					<div class="content-inner">
+					  
+													              <a name="main-content"></a>
+														
+															<!--front panel regions beg-->
+								<div id="content-panels" class="at-panel gpanel panel-display content clearfix">
+									<div class="region region-content-top"><div class="region-inner clearfix"><div id="block-boxes-os-addthis" class="block block-boxes block-boxes-os_boxes_addthis no-title"  module="boxes" delta="os_addthis"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-os_addthis' class='boxes-box'><div class="boxes-box-content"><div class="addthis_toolbox addthis_default_style "><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a><a class="addthis_button_email"></a><a class="addthis_button_linkedin"></a><a class="addthis_button_google_plusone"></a></div></div></div></div>
+  </div></div><section id="block-boxes-1371748751" class="block block-boxes block-boxes-os_boxes_html"  module="boxes" delta="1371748751"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">Bio</h2>
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-1371748751' class='boxes-box'><div class="boxes-box-content"><p>
+	I am currently a postdoc at Harvard SEAS and the Wyss Institute co-advised by Rob Wood and Scott Kuindersma. I received my PhD in Sep 2017, at the GRASP laboratory (<a href="https://kodlab.seas.upenn.edu/" title="">Kodlab</a>) in the University of Pennsylvania advised by Dan Koditschek. I graduated with a BS/MS in Mechanical Engineering from Johns Hopkins University in 2010 (<a href="https://limbs.lcsr.jhu.edu/">LIMBS lab</a> under Noah Cowan), during which I performed an empirical study on how/when human beings inject feedback to stabilize a 1-dimensional paddle juggling task. Bio-inspiration remains a key research interest, and during my PhD, I switched my efforts into modular/compositional control of dynamic locomotion in a way that generalizes across platforms (quadruped, tailed biped, ...) and behaviors (hopping, running, ...), as well as the design of dynamic locomotor systems.
+</p>
+
+<p>
+	I co-founded <a href="https://www.ghostrobotics.io/" title="">Ghost Robotics</a> in 2016 and function as CTO, commercializing research that led to the creation of a family of power-dense direct-drive legged robots with high actuation bandwidth and proprioceptive sensing capabilities.
+</p>
+
+<p>
+	I have in part created curriculum for two online courses: "Robotics: Mobility", and "Robotics: Capstone" on coursera.  
+</p>
+
+<p>
+	<strong>Quick links</strong>:
+</p>
+
+<ul><li>
+		<a href="https://scholar.harvard.edu/files/avikde/files/cv_avikde.pdf">CV</a>
+	</li>
+	<li>
+		Academic: <a href="#research" title="">Research projects</a> | <a href="#teaching" title="">Teaching</a> | <a href="#awards" title="">Awards</a> | <a href="#talks" title="">Invited talks</a> | <a href="#posters" title="">Abstracts and posters</a> | <a href="https://scholar.harvard.edu/avikde/publications" title="">Publications</a>
+	</li>
+	<li>
+		Media: <a href="#videos" title="">Videos</a> | <a href="#media" title="">Media coverage</a>
+	</li>
+	<li>
+		Personal: <a href="http://avikde.me">Personal website</a> | <a href="https://twitter.com/avkde">Twitter</a>
+	</li>
+</ul><h2>
+	<a name="research" id="research"></a>Research Areas and Projects
+</h2>
+
+<ul><li>
+		<a href="https://kodlab.seas.upenn.edu/research/programmingwork/vbf-de/">Steady-state behaviors ("gaits") using parallel composition</a> -- hybrid averaging, Minitaur virtual bipedal gaits, <a href="http://repository.upenn.edu/ese_papers/717/">Jerboa hopping</a>
+	</li>
+	<li>
+		<a href="https://kodlab.seas.upenn.edu/research/dynamicmobility/">Transitional behaviors ("leaps")</a> -- <a href="http://repository.upenn.edu/ese_papers/789/">Jerboa leaping</a>, Jerboa rolling
+	</li>
+	<li>
+		<a href="https://kodlab.seas.upenn.edu/research/programmingwork/designforleggedrobots/">Design</a> -- direct-drive robots, <a href="http://repository.upenn.edu/ese_papers/611/">motor selection</a>, <a href="https://www.ghostrobotics.io/robots">Minitaur</a>, <a href="http://repository.upenn.edu/ese_reports/16/">Jerboa</a>, Delta hopper
+	</li>
+	<li>
+		<a href="https://kodlab.seas.upenn.edu/research/reactive-planning/reactivemotionplanning/">Sensorimotor loops (servoing)</a> -- <a href="http://repository.upenn.edu/ese_papers/636/">wall following</a>, <a href="http://repository.upenn.edu/ese_papers/661/">active visual servoing</a>
+	</li>
+	<li>
+		Bayesian estimation -- <a href="https://link.springer.com/chapter/10.1007%2F978-3-642-00312-7_39">approximate Bayesian estimation</a>
+	</li>
+</ul><h3>
+	Past Projects
+</h3>
+
+<ul><li>
+		Juggling -- <a href="https://jscholarship.library.jhu.edu/handle/1774.2/34135">paddle</a> <a href="http://jn.physiology.org/content/early/2013/1 2/20/jn.00140.2013.abstract">juggling</a>
+	</li>
+	<li>
+		Lateral perturbation recovery by a RHex robot (ESE650 final project, Sp 2012)
+	</li>
+	<li>
+		Applications of homology to processing laser data (with Qian Wu, Su 2011)
+	</li>
+	<li>
+		Finding optimal configuration space paths by variation of curves (MEAM620 final project, Sp 2011)
+	</li>
+</ul><h2>
+	<a name="teaching" id="teaching"></a>Teaching
+</h2>
+
+<ul><li>
+		<a href="https://www.coursera.org/learn/robotics-mobility">Robotics: Mobility</a> -- created/delivered roughly 25% of the curriculum
+	</li>
+	<li>
+		<a href="https://www.coursera.org/learn/robotics-capstone">Robotics: Capstone</a> -- created/delivered roughly 50% of the curriculum
+	</li>
+	<li>
+		TA for ESE 201, ESE 512 (both Dynamical systems courses)
+	</li>
+</ul><h2>
+	<a name="awards" id="awards"></a>Awards &amp; Honors
+</h2>
+
+<ul><li>
+		<a href="https://www.jsmf.org/apply/fellowship/">James McDonnell Postdoctoral Fellowship</a> winner
+	</li>
+	<li>
+		RAS Best Reviewer Award (presented at ICRA 2018)
+	</li>
+	<li>
+		UPenn ESE Best Doctoral Dissertation Award for the 2017-2018 Academic Year
+	</li>
+	<li>
+		For older awards see CV
+	</li>
+</ul><h2>
+	<a name="videos" id="videos"></a>Selected Videos
+</h2>
+
+<p>
+	Minitaur:
+</p>
+
+<p>
+	<span><iframe width="480" height="270" src="https://www.youtube.com/embed/ijnOCQOpC7k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span>
+</p>
+
+<p>
+	Jerboa:
+</p>
+
+<p>
+	<span><iframe width="480" height="360" src="https://www.youtube.com/embed/wvYthkpRFfk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span> <span><iframe width="480" height="360" src="https://www.youtube.com/embed/0p-ye6bSqbc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span> <span><iframe width="480" height="270" src="https://www.youtube.com/embed/8Vz-5esao7k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span>
+</p>
+
+<p>
+	Videos featuring my gaits co-produced by Ghost Robotics:
+</p>
+
+<p>
+	<span><iframe width="480" height="270" src="https://www.youtube.com/embed/_YrWX9ez3jM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span> <span><iframe width="480" height="270" src="https://www.youtube.com/embed/bnKOeMoibLg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span>
+</p>
+
+<p>
+	New videos often shared to <a href="https://twitter.com/Ghost_Robotics">https://twitter.com/Ghost_Robotics</a>
+</p>
+
+<h2>
+	<a name="media" id="media"></a>Media Coverage
+</h2>
+
+<p>
+	(Under construction)
+</p>
+
+<p>
+	 
+</p>
+
+<p>
+	Coverage for Ghost Robotics:
+</p>
+
+<ul><li>
+		Daily Show
+	</li>
+	<li>
+		Many more
+	</li>
+</ul><h2>
+	<a name="talks" id="talks"></a>Invited Talks (excluding conference talks)
+</h2>
+
+<ul><li>
+		A Modern Perspective from “Dual Citizenship” in Academia and Industry -- <a href="https://www.grasp.upenn.edu/events/grasp-impact-innovation-celebrating-40-years" title="">GRASP lab 40th celebration</a>
+	</li>
+	<li>
+		Optimal Control Synthesis via Compositions of Reduced-Order Models (Templates) -- ACC 2019 <a href="https://leggedroboticsacc2019.wordpress.com/" title="">legged workshop</a>
+	</li>
+	<li>
+		Connecting Today’s Applications for Commercial Legged Robots to their Design and Control -- ICRA 2019 <a href="https://icra2019wslocomotion.wordpress.com/" title="">legged workshop</a> -- <a href="https://icra2019wslocomotion.files.wordpress.com/2019/07/icra_2019_ws_legged_robots_de.pdf" title="">Slides</a>
+	</li>
+	<li>
+		Template Composition for Synthesis of New Behaviors from Simpler Constituents -- IROS 2018 <a href="https://iros18wsdll.netlify.com/">template-based control workshop</a>
+	</li>
+	<li>
+		Tail design and control for a tail- and hip-energized and -stabilized bipedal hopping robot -- RSS 2018 workshop on "<a href="https://www.cmu.edu/me/robomechanicslab/ws/rss2018.html">Unusual</a> appendages: novel, multi-modal, or multi-functional uses for limbs, tails, and other body parts"
+	</li>
+	<li>
+		<a href="https://kodlab.seas.upenn.edu/wp-content/uploads/2018/06/icra18_multilegged_workshop.pdf">Toward robust locomotion subject to variations in robot scale, mass, payload, and environmental conditions</a> -- <a href="https://research.csiro.au/robotics/multilegged-robots-workshop-icra2018/">ICRA 2018 multilegged robots workshop</a>
+	</li>
+	<li>
+		<a href="https://kodlab.seas.upenn.edu/wp-content/uploads/2018/06/icra18_actuator_workshop.pdf">Platform design using dynamic motor, electronics, and transmission models</a> -- <a href="https://torquecontrolledactuatorcriteria.wordpress.com/invited-speakers/">ICRA 2018 actuator workshop</a>
+	</li>
+	<li>
+		Modular hopping and running (for biologists and engineers) -- UC Berkeley biomechanics seminar -- Oct 24, 2017
+	</li>
+	<li>
+		Modular hopping and running -- Boston University Robotics Lab -- Oct 6, 2017
+	</li>
+	<li>
+		<a href="https://www.youtube.com/watch?v=l6p2a9SIy_o">Thesis Defense "Modular Hopping and Running via Parallel Composition"</a> -- Thesis defense -- Sep 20, 2017
+	</li>
+	<li>
+		CMU bipedal seminar -- Feb 17, 2017
+	</li>
+	<li>
+		Mechanically Simple, Behaviorally Versatile Quadrupeds -- TRI tech talk (with Gavin Kenneally) -- Feb 10, 2017
+	</li>
+	<li>
+		Mechanically Simple, Behaviorally Versatile Quadrupeds -- Google tech talk (with Gavin Kenneally) -- Feb 7, 2017
+	</li>
+	<li>
+		Anchored Behaviors from Template Compositions -- UW seminar -- Feb 3, 2017
+	</li>
+	<li>
+		<a href="https://youtu.be/E9b3o-YxxQk">Sequential, Parallel and Symbolic Compositions</a> -- UPenn ESE PhD Colloquium -- Fall 2015
+	</li>
+	<li>
+		Anchor synthesis via template composition -- AMAM 2015
+	</li>
+	<li>
+		UPenn GRASP industry day -- April 2015
+	</li>
+	<li>
+		Parallel Composition of Templates for Tail-Energized Planar Hopping -- MIT Biomimetic Robotics Lab -- Oct 2014
+	</li>
+</ul><h2>
+	<a name="posters" id="posters"></a>Abstracts and Posters
+</h2>
+
+<ul><li>
+		<span><span><b><span><span>A. De</span></span></b><span><span> and D. E. Koditschek, “</span></span></span></span><a href="https://scholar.harvard.edu/files/avikde/files/dw2017-abstract_de_avik_v2.pdf">Hybrid averaging shows that within-stance symmetry helps mitigate coupling interactions between degrees of freedom in a sagittal 2DOF monoped and 3DOF biped</a><span><span><span><span>,” Dynamic Walking 2017.</span></span></span></span>
+	</li>
+	<li>
+		<span><span><b><span><span>A. De</span></span></b><span><span> and D. E. Koditschek, “</span></span></span></span><a href="https://scholar.harvard.edu/files/avikde/files/neuro2017_poster.pdf">Reactive coordination: stabilizing common quadrupedal gaits without CPGs</a><span><span><span><span>,” </span></span></span></span><a href="http://www2.tulane.edu/sse/math/news/upload/WorkshopSchedule_Jan2017_Tulane.pdf" title="">Sixth Annual Winter Workshop on Neuromechanics and Dynamics of Locomotion</a><span><span><span><span>, Tulane University - New Orleans, Louisiana, January 19 – 20, 2017.</span></span></span></span>
+	</li>
+	<li>
+		<span><span><span><span>G. Kenneally, <b>A. De</b> and D. E. Koditschek, “Design Principles for a Family of Direct-Drive Legged Robots,” </span></span></span></span><a href="https://sites.google.com/site/miniatureleggedrobots/" title="">RSS Workshop on Miniature Legged Robots</a><span><span><span><span>, July, 2015.</span></span></span></span>
+	</li>
+	<li>
+		<span><span><span><span>G. J. Wenger, <b>A. De</b> and D. E. Koditschek, “</span></span></span></span><a href="https://kodlab.seas.upenn.edu/uploads/TailsRSS2015/Wenger-RSSTails2015.pdf" title="">Roll Stabilization on a Tailed Biped</a><span><span><span><span>,” </span></span></span></span><a href="https://www.cmu.edu/me/robomechanicslab/ws/RSS2015.html" title="">RSS workshop on robotic uses for tails</a><span><span><span><span>, July, 2015.</span></span></span></span>
+	</li>
+	<li>
+		<span><span><b><span><span>A. De</span></span></b><span><span>, A. M. Johnson and D. E. Koditschek, “</span></span></span></span><a href="https://scholar.harvard.edu/files/avikde/files/dw2014_poster.pdf">Planar Hopping with a Leg and a Tail</a><span><span><span><span>,” Dynamic Walking, June, 2014.</span></span></span></span>
+	</li>
+</ul></div></div></div>
+  </div></section><section id="block-boxes-os-publications-recent" class="block block-boxes block-boxes-os_sv_list_box"  module="boxes" delta="os_publications_recent"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable=""> Recent Publications</h2>
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-os_publications_recent' class='boxes-box'><div class="boxes-box-content"><div id='box-os_publications_recent-page' data-page='0' data-delta='os_publications_recent' class='os-sv-list os_sv_list_box sv-list-biblio sv-list-view-title sv-list-layout-list sv-grid-3'><div class="item-list"><ul><li><a href="/avikde/publications/composition-templates-transitional-pedipulation-behaviors"  target="_top">Composition of Templates for Transitional Pedipulation Behaviors</a></li><li><a href="/avikde/publications/task-based-control-and-design-bldc-actuator-robotics"  target="_top">Task-Based Control and Design of a BLDC Actuator for Robotics</a></li><li><a href="/avikde/publications/analytically-guided-design-tailed-bipedal-hopping-robot"  target="_top">Analytically-Guided Design of a Tailed Bipedal Hopping Robot</a></li><li><a href="/avikde/publications/vertical-hopper-compositions-preflexive-and-feedback-stabilized-quadrupedal-0"  target="_top">Vertical hopper compositions for preflexive and feedback-stabilized quadrupedal bounding, pacing, pronking, and trotting</a></li><li><a href="/avikde/publications/hybrid-dynamical-extension-averaging-and-its-application-analysis-legged-gait-1"  target="_top">A hybrid dynamical extension of averaging and its application to the analysis of legged gait stability</a></li><li><a href="/avikde/publications/averaged-anchoring-decoupled-templates-tail-energized-monoped-0"  target="_top">Averaged anchoring of decoupled templates in a tail-energized monoped</a></li></ul></div></div><a href="/avikde/publications"  class="more-link">More</a></div></div></div>
+  </div></section></div></div>																																			</div>
+								<!--front panel regions end-->
+													
+											</div>
+				</div>
+
+				
+				
+			</div>
+		</div>
+		<!--footer region beg-->
+		<footer id="footer" class="clearfix" role="contentinfo">
+		<!-- Three column 3x33 Gpanel -->
+		  <div id="powerby-login">
+  	<a href="/user?destination=avikde/home%3Fadmin_panel%3D1%26login%3D1"  class="footer-login">Admin Login</a>  	<div id="powered-by"><a href="https://theopenscholar.com">OpenScholar</a></div>
+    </div>
+  </footer>
+  </div>
+</div><!--page area ends-->
+
+<div id="extradiv"></div>
+
+  <!--FLEXIBLE ADMIN FOOTER FOR USE BY SELECT GROUPS USING OS-->
+  <div id="branding_footer">
+		<div class="branding-container">
+	    <div class="copyright"><span class="harvard-copyright">Copyright &copy; 2020 The President and Fellows of Harvard College</span>  | <a href="http://accessibility.harvard.edu/" >Accessibility</a> | <a href="https://accessibility.huit.harvard.edu/digital-accessibility-policy" >Digital Accessibility</a> | <a href="http://www.harvard.edu/reporting-copyright-infringements" >Report Copyright Infringement</a></div>		</div>
+  </div>
+
+</div><!-- /page_wrap -->
+
+  <script src="//static.scholar.harvard.edu/profiles/openscholar/libraries/respondjs/respond.min.js?qbcswr"></script>
+<script src="//static.scholar.harvard.edu/files/js/js_aX7yRJ6konHrJvWI9p8DYMZjzXuDWoFTSzXiLL4uZWU.js?m=1591126957"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"avikde\/","ajaxPageState":{"theme":"hwpi_widener","theme_token":"CTw4UBsqo3SCHAXb6anJVtl2-y3PVVJwbeFYUaZGmWA","jquery_version":"1.8"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcarousel":{"ajaxPath":"\/avikde\/jcarousel\/ajax\/views"},"spaces":{"id":"629700","path":"Avik De"},"os_ga":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|docx?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xlsx?|xml|z|zip","trackNavigation":1},"paths":{"api":"\/api","siteCreationForm":"\/profiles\/openscholar\/modules\/frontend\/os_site_creation\/templates","siteCreationModuleRoot":"\/profiles\/openscholar\/modules\/frontend\/os_site_creation","hasOsId":false},"user":{"uid":0,"name":null},"admin_panel":{"purl_base_domain":"https:\/\/scholar.harvard.edu","base_domain":"https:\/\/scholar.harvard.edu"},"version":{"siteCreationForm":"1.0.4"},"site_creation":{"subsite_types":[],"privacy_levels":{"0":"Public on the web. \u003Cbr\u003E\u003Cspan class=\u0022description\u0022\u003EAnyone on the Internet can view your site. Your site will show in search results. No sign-in required.\u003C\/span\u003E","2":"Anyone with the link. \u003Cbr\u003E\u003Cspan class=\u0022description\u0022\u003EAnyone who has the URL to your site can view your site. Your site will not be indexed by search engines.\u003C\/span\u003E","1":"Site members only. \u003Cbr\u003E\u003Cspan class=\u0022description\u0022\u003EThis setting can be useful during site creation. Your site will not be indexed by search engines.\u003C\/span\u003E","4":"Harvard Community\u003Cbr\u003E\u003Cspan class=\u0027description\u0027\u003EOnly the Harvard community can access your site. Sign-in via HarvardKey required.\u003C\/span\u003E"},"tos_label":"OpenScholar Terms of Use","tos_url":"https:\/\/hwp.harvard.edu\/terms-use","presets":{"os_department_minimal":{"name":"os_department_minimal","title":"Minimal","description":"Blank site with no pre-set menu links or pages.","site_type":"department"},"os_project":{"name":"os_project","title":"Minimal","description":"Blank site with no pre-set menu links or pages.","site_type":"project"},"os_scholar":{"name":"os_scholar","title":"Minimal","description":"Blank site with no pre-set menu links or pages.","site_type":"personal"},"hwp_personal":{"name":"hwp_personal","title":"Personal","description":"The Harvard Web Publishing standard Personal site.","site_type":"personal"}},"default_individual_scholar":"os_scholar","default_project_lab_small_group":"os_project","default_department_school":"os_department_minimal"},"urlIsAjaxTrusted":{"\/avikde\/search\/site":true},"nice_menus_options":{"delay":800,"speed":"slow"},"ogContext":{"groupType":"node","gid":"629700"},"password":{"strengthTitle":"Password compliance:"},"type":"setting"});</script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.6/angular.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.6/angular-sanitize.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.6/angular-cookies.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/ngStorage/0.3.9/ngStorage.min.js"></script>
+<script src="//static.scholar.harvard.edu/files/js/js_f4wMOsjA9MAdZ292iUPH5g126YL3Wz-t53rX-J6La3Q.js?m=1591193121"></script>
+<script src="//static.scholar.harvard.edu/files/js/js_Y1FBKf83E3J9MQtFPjbc5aPABrOfDhLHCFnDQJdtDSk.js?m=1588685067"></script>
+<script src="//s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e9eeefa6983da55"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script src="//static.scholar.harvard.edu/files/js/js_ZwtHh_UtMhEyIZ7P23uU_tO_tZHXgPG1rk11b_m8s9Y.js?m=1588684991"></script>
+<script>window.CKEDITOR_BASEPATH = '/profiles/openscholar/libraries/ckeditor/'</script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-17689007-1"]);_gaq.push(["_gat._anonymizeIp"]);_gaq.push(["_trackPageview"]);_gaq.push(['_setCustomVar',1,'Site homepage','https://scholar.harvard.edu/avikde',3]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();var addthis_config = {data_ga_social: true, data_ga_property: {"addthis_default":false}};</script>
+<script src="//static.scholar.harvard.edu/files/js/js_rklvtk_0I642SyuTeoiK1RFOGN9_3zc8AxXFMyhA7-E.js?m=1588684991"></script>
+<script>(function ($) { angular.module('openscholar', ['SiteCreationForm']); })();</script>
+<script src="//static.scholar.harvard.edu/files/js/js_n2kIBLq1E-Om_c8A7ah0ltAIHHjLKcqzxxA69nzkBTU.js?m=1588685088"></script>
+<script src="//static.scholar.harvard.edu/files/js/js_qluyoBMkmyevXrrhnKB_2ie6cLJ7DL5g_0nHm6hyXwA.js?m=1588685045"></script>
+</body>
+</html>
