@@ -26,6 +26,16 @@
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
 <script type="text/javascript" src="js/modernizr.custom.js"></script>
 
+<script type="text/javascript">
+  /**
+ * Stop all iframes or HTML5 <video>'s from playing
+ */
+const stopVideos = () => {
+  document.querySelectorAll('iframe').forEach(v => { v.src = v.src });
+  document.querySelectorAll('video').forEach(v => { v.pause() });
+};
+</script>
+
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
@@ -161,8 +171,26 @@ Through this workshop we wish to answer one question: How can we make robots mor
         <div class="col-">
           <span class="pull-left" style="text-align:left"> 
             <h3>Avik De</h3> 
-            <b>Ghost Robotics (Co-founder and CTO)</b><br>
-            <!-- <iframe width="300" height="200" src="https://www.youtube.com/embed/BKPiqUryHfs" frameborder="0" allow="accelerometer; autoplay; encrypted&#45;media; gyroscope; picture&#45;in&#45;picture" allowfullscreen></iframe> -->
+            <b>Ghost Robotics (Co-founder and CTO)</b><br><br>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#avikde" data-backdrop="static" data-keyboard="false">
+              Talk
+            </button>
+            <div class="modal fade" id="avikde" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+              <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                  <div class="modal-body">
+                    <div class="embed-responsive embed-responsive-16by9">
+                      <video class="embed-responsive-item" controls>
+                        <source src="https://www.dropbox.com/s/zrr2mf7yp2p0e2e/rss20_workshop_contact_AvikDe_recording.mp4?raw=1" type="video/mp4">
+                      </video>
+                    </div>
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="stopVideos();">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
         </div>
       </div><br>
       <div class="row">
@@ -172,9 +200,29 @@ Through this workshop we wish to answer one question: How can we make robots mor
         <div class="col-">
           <span class="pull-left" style="text-align:left"> 
             <h3>Sangbae Kim</h3> 
-            <b>Associate Professor at MIT</b><br>
-            <!-- <iframe width="300" height="200" src="https://www.youtube.com/embed/BKPiqUryHfs" frameborder="0" allow="accelerometer; autoplay; encrypted&#45;media; gyroscope; picture&#45;in&#45;picture" allowfullscreen></iframe> -->
+            <b>Associate Professor at MIT</b><br><br>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#sangbaekim" data-backdrop="static" data-keyboard="false">
+              Talk
+            </button>
+            <div class="modal fade" id="sangbaekim" tabindex="-1" role="dialog" aria-labelledby="Sangbae Kim" aria-hidden="true">
+              <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                  <div class="modal-body">
+                    <div class="embed-responsive embed-responsive-16by9">
+                      <video class="embed-responsive-item" controls>
+                        <source src="https://www.dropbox.com/s/d0pkc6pklz8hjo6/React%20to%20contact%20RSS%20workshop%20Sangbae%20Kim.mp4?raw=1" type="video/mp4">
+                      </video>
+                    </div>
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="stopVideos();">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
         </div>
+        <!-- <div class="col&#45;sm&#45;4"> -->
+        <!-- </div> -->
       </div><br>
       <div class="row">
         <div class="col-sm-4">
@@ -194,7 +242,29 @@ Through this workshop we wish to answer one question: How can we make robots mor
         <div class="col-">
           <span class="pull-left" style="text-align:left"> 
             <h3>Jonathan Hurst</h3> 
-            <b>Associate Professor at Oregon State University</b><br>
+            <b>Associate Professor at Oregon State University</b><br><br>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#jonathanhurst" data-backdrop="static" data-keyboard="false">
+              Talk
+            </button>
+            <div class="modal fade" id="jonathanhurst" tabindex="-1" role="dialog" aria-labelledby="Jonathan Hurst" aria-hidden="true">
+              <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h5 class="modal-title">Jonathan Hurst</h5>
+                  </div>
+                  <div class="modal-body">
+                    <div class="embed-responsive embed-responsive-4by3">
+                      <video class="embed-responsive-item" controls>
+                        <source src="https://www.dropbox.com/s/zr4dbim7uswl8lg/20200707%20RSS%20Workshop%20on%20Reacting%20to%20Contact.mkv?raw=1" type="video/mp4">
+                      </video>
+                    </div>
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="stopVideos();">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
             <!-- <iframe width="300" height="200" src="https://www.youtube.com/embed/BKPiqUryHfs" frameborder="0" allow="accelerometer; autoplay; encrypted&#45;media; gyroscope; picture&#45;in&#45;picture" allowfullscreen></iframe> -->
         </div>
       </div><br>
@@ -228,6 +298,17 @@ Through this workshop we wish to answer one question: How can we make robots mor
           <span class="pull-left" style="text-align:left"> 
             <h3>John Peter Whitney</h3> 
             <b>Assistant Professor at Northeastern University</b><br>
+            <!-- <iframe width="300" height="200" src="https://www.youtube.com/embed/BKPiqUryHfs" frameborder="0" allow="accelerometer; autoplay; encrypted&#45;media; gyroscope; picture&#45;in&#45;picture" allowfullscreen></iframe> -->
+        </div>
+      </div><br>
+      <div class="row">
+        <div class="col-sm-4">
+          <img src="https://seas.yale.edu/sites/default/files/imagecache/person/dollar.png" style="height:200px;object-fit:cover;width:200px;border-radius:50%"/>
+        </div>
+        <div class="col-8">
+          <span class="pull-left" style="text-align:left"> 
+            <h3>Aaron M. Dollar</h3> 
+            <b>Professor at Yale University</b><br>
             <!-- <iframe width="300" height="200" src="https://www.youtube.com/embed/BKPiqUryHfs" frameborder="0" allow="accelerometer; autoplay; encrypted&#45;media; gyroscope; picture&#45;in&#45;picture" allowfullscreen></iframe> -->
         </div>
       </div><br>
