@@ -79,6 +79,9 @@ hr {
 	border: 0;
 }
 /* Navigation */
+.modal.fade {
+  z-index: 10000000 !important;
+}
 #nav {
 	z-index: 9999;
 }
@@ -187,6 +190,7 @@ hr {
 #about {
 	padding: 100px 0;
 	background: #f6f6f6;
+    offset-anchor: auto;
 }
 #about .about-text {
 	margin-left: 10px;
